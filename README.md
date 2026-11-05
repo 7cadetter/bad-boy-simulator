@@ -25,5 +25,10 @@ In this stage, the player will be taught how to de-escalate high stress and aggr
 In this stage, the player will be taught some basic self defence techniques as a last resort. The player will be taught how to defend themselves from the bad boys with basic self defence techniques. This will include a scripted scenario where you will test out what you have learned and defeat the bad boys.
 
 ## Technology used:
+- Godot
+- Android Studio
+- Meta Quest
+- Open Vendor
+- Motion Capture Technology
 
 ## Team: Anmool Shah, Aron Mooney, Rachel Barry

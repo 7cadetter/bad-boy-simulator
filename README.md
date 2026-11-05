@@ -13,7 +13,7 @@ While it is important to have the skills to defend yourself in case of an attack
 ## Stage 1: Risk Assessment
 In this stage, the player will be taught to recognise threats, pre-attack indicators and techniques to improve situational awareness.
 
-## This experience will cover;
+This experience will cover;
 - Signs to watch out for in case of an attack
 - Mistakes to avoid
 - Situational Awareness

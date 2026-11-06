@@ -33,6 +33,6 @@ In this stage, the player will be taught some basic self defence techniques as a
 - XR Tools
 
 ## Team: 
-Anmool Shah C23304331
-Aron Mooney C23378476
-Rachel Barry C23502299
+- Anmool Shah C23304331
+- Aron Mooney C23378476
+- Rachel Barry C23502299

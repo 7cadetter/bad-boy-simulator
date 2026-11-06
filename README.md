@@ -16,10 +16,10 @@ In this stage, the player will be taught to recognise threats, pre-attack indica
 This experience will cover;
 - Signs to watch out for in case of an attack
 - Mistakes to avoid
-- Situational Awareness
+- Situational awareness
 
 ## Stage 2: De-escalation
-In this stage, the player will be taught how to de-escalate high stress and aggressive situations with de-escalation techniques while prioritising safety. 
+In this stage, the player will be taught how to work through high stress and aggressive situations with de-escalation techniques while prioritising safety. 
 
 ## Stage 3: Self Defence
 In this stage, the player will be taught some basic self defence techniques as a last resort. The player will be taught how to defend themselves from the bad boys with basic self defence techniques. This will include a scripted scenario where you will test out what you have learned and defeat the bad boys.
@@ -27,8 +27,12 @@ In this stage, the player will be taught some basic self defence techniques as a
 ## Technology used:
 - Godot
 - Android Studio
-- Meta Quest
-- Open Vendor
 - Motion Capture Technology
+- Meta Quest
+- OpenXR Vendors
+- XR Tools
 
-## Team: Anmool Shah, Aron Mooney, Rachel Barry
+## Team: 
+Anmool Shah C23304331
+Aron Mooney C23378476
+Rachel Barry C23502299
